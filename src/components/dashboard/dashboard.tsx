@@ -232,6 +232,7 @@ export function Dashboard() {
                 placeholder="Search invoices or clients"
                 value={search}
                 onChange={(event) => setSearch(event.target.value)}
+                style={{}}
                 className="h-10 border-border bg-background pl-9 pr-10 text-sm"
               />
               {search && (
