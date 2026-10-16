@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep dashboard prototype records in a dedicated local mock-data module so the interface stays independent of services until backend work is requested.
